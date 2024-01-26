@@ -28,10 +28,13 @@
 
 <hr>
 <h3 align="center">CURRENT SKILLS</h3>
-<div align="center">
-  <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5">
-  <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css">
-  <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap">
-  <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java">
-  <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql">
+<div align="center" style="background-color: rgb(198, 207, 207);">
+        <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5">
+        <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css">
+        <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap">
+        <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java">
+        <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql">
+        <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php">
+        <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+        <img height="50em" src="https://octodex.github.com/images/original.png" alt="github">
 </div>
