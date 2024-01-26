@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Miguel Martins</h1>
+<h3 align="center">Welcome to my GitHub</h3>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjrmartins&show_icons=true&theme=merko" alt="total stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjrmartins&layout=compact&theme=merko" alt="top languages">
+</div>
+
 
 <!--
 **mjrmartins/mjrmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
