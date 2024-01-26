@@ -27,7 +27,7 @@
 </div>
 
 <hr>
-<h3 align="center">CURRENT SKILLS</h3>
+<h4 align="center">CURRENT SKILLS</h4>
 <div align="center" style="background-color: rgb(198, 207, 207);">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css">
@@ -37,4 +37,10 @@
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
         <img height="40em" src="https://octodex.github.com/images/original.png" alt="github">
+</div>
+
+<hr>
+<h4 align="center">CONNECT WITH ME</h4>
+<div align="center">
+        <a href="https://www.linkedin.com/in/miguel-martins-082a20267"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </div>
