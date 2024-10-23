@@ -33,6 +33,7 @@
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java">
+        <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
