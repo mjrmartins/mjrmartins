@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Miguel Martins</h1>
 
 <div align="center">
-        <img height="160em" src="https://octodex.github.com/images/droidtocat.png" alt="droidtocat">
+        <img height="180em" src="https://octodex.github.com/images/droidtocat.png" alt="droidtocat">
 </div>
 
 <h3 align="center">Welcome to my GitHub</h3>
