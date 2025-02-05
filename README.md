@@ -22,7 +22,7 @@
 <hr>
 <h3 align="left">Currently studying:</h3>
 <div>
-  💻 Improving <b>Javascript & React</b> skills;<br>
+  💻 Improving <b>Javascript</b> skills;<br>
   💻 Practicing <b>PHP</b> skills.<br>
 </div>
 
