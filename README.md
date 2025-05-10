@@ -14,7 +14,7 @@
 <hr>
 <h3 align="left">About me:</h3>
 <div>
-  👨🏻‍💻 Junior Full Stack Web Developer;<br>
+  👨🏻‍💻 Website Developer;<br>
   🇵🇹 🫡 Portuguese military man with a passion for programming and web development;<br>
   🏃🏻‍♂️ Passionate about sports and with an academic degree in this area.
 </div>
