@@ -20,10 +20,9 @@
 </div>
 
 <hr>
-<h3 align="left">Currently studying:</h3>
+<h3 align="left">Currently improving:</h3>
 <div>
-  💻 Improving <b>Javascript</b> skills;<br>
-  💻 Practicing <b>PHP</b> skills.<br>
+  💻 Website builder skills;<br> 🛍️ Specializing in online stores<br>
 </div>
 
 <hr>
