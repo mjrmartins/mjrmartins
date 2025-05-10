@@ -22,7 +22,7 @@
 <hr>
 <h3 align="left">Currently improving:</h3>
 <div>
-  💻 Website builder skills;<br> 🛍️ Specializing in online stores<br>
+  💻 Website builder skills;<br> 🛍️ Specializing in online stores.
 </div>
 
 <hr>
