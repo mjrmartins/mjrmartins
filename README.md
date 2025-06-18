@@ -37,6 +37,8 @@
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
         <img height="40em" src="https://octodex.github.com/images/original.png" alt="github">
+        <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-original.svg" alt="wordpress">
+        <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="woocommerce">
 </div>
 
 <hr>
