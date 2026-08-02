@@ -6,11 +6,6 @@
 
 <h3 align="center">Welcome to my GitHub</h3>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mjrmartins&show_icons=true&theme=merko" alt="total stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjrmartins&layout=compact&theme=merko" alt="top languages">
-</div>
-
 <hr>
 <h3 align="left">About me:</h3>
 <div>
